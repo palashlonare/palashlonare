@@ -14,9 +14,7 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm currently building [Eternal Vault](https://eternalvault.app?ref=github-readme) - The secure bridge between your life and your loved ones.
-- 🚀 &nbsp; I’m currently learning about Go, Linux, Networking, Ansible and playing around with Raspberry Pi's.
-- 💬 &nbsp; I write blogs [here](https://akashrajpurohit.com/blogs/?ref=github-profile-readme)!
-- 📰 &nbsp; I have started sending out newsletters, subscribe it [here](https://akashrajpurohit.com/newsletter/?ref=github-profile-readme)
+- 🚀 &nbsp; I’m currently learning about RAG in GenAI, Linux, AI ML , Java and playing around with data pipelines.
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
 - 📫 &nbsp; How to reach me: palashlonare786@gmail.com 
 
