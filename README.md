@@ -34,13 +34,13 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 
 <!-- Cloud & Data -->
 <code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure"></code>
-<code><img height="35" src="https://www.pngwing.com/en/free-png-qmrro" alt="databricks"></code>
-<code><img height="35" src="https://vectorseek.com/vector_logo/azure-synapse-analytics-logo-vector/" alt="synapse"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks"></code>
+<code><img height="35" src="https://az-icons.com/export/icons/0e64f85d4661e42d46e4e2bc1602eadb.svg" alt="synapse"></code>
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark"></code>
 
 <!-- Orchestration & Containers -->
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="35" src="https://techicons.dev/icons/apacheairflow" alt="airflow"></code>
+<code><img height="35" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/apache-airflow.svg" alt="airflow"></code>
 
 <!-- Databases -->
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
