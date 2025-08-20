@@ -8,7 +8,8 @@
 ### Glad to see you here!
 
 I’m a Data Engineer passionate about building robust data pipelines, optimizing big data workflows, and leveraging cloud platforms to turn raw information into actionable insights. With a background in engineering and hands-on experience in modern data tools, I bridge the gap between complex datasets and business value.
-  
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> </p>
 
 ### Talking about Personal Stuffs:
 
@@ -53,9 +54,9 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 <code><img height="35" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="openai"></code>
 
 ### Projects and Dev Stuffs: 
-<details>	
+
   <summary><b>⚡ Github Stats</b></summary>
 
   <img height="170em" src="https://grs-akash.vercel.app/api?username=palashlonare&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
   <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=palashlonare&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
-</details> 
+
