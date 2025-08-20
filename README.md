@@ -43,8 +43,8 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
-  <img height="170em" src="https://grs-akash.vercel.app/api?username=AkashRajpurohit&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
-  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=AkashRajpurohit&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
+  <img height="170em" src="https://grs-akash.vercel.app/api?username=PalashLonare&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
+  <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=PalashLonare&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 </details>
 
 <details>
