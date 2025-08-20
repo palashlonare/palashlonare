@@ -18,7 +18,7 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 - 💬 &nbsp; I write blogs [here](https://akashrajpurohit.com/blogs/?ref=github-profile-readme)!
 - 📰 &nbsp; I have started sending out newsletters, subscribe it [here](https://akashrajpurohit.com/newsletter/?ref=github-profile-readme)
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
-- 📫 &nbsp; How to reach me: me@akashrajpurohit.com 
+- 📫 &nbsp; How to reach me: palashlonare786@gmail.com 
 
 ### My Absolute Favorites:
 
