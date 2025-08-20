@@ -25,33 +25,32 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 
 ### Languages and Tools:
 
-<!-- Languages -->
+<!-- Core -->
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql"></code>
 
-<!-- Data & Orchestration -->
-<code><img height="35" src="https://avatars.githubusercontent.com/u/49998067?s=200&v=4" alt="databricks"></code>
-<code><img height="35" src="https://seeklogo.com/images/A/azure-data-factory-logo-5BC68C854E-seeklogo.com.png" alt="azure data factory"></code>
-<code><img height="35" src="https://swimburger.net/media/ppnn3pcl/azure-synapse-analytics.png" alt="synapse"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="pyspark"></code>
-<code><img height="35" src="https://avatars.githubusercontent.com/u/49998067?s=200&v=4" alt="mlflow"></code>
-<code><img height="35" src="https://www.svgrepo.com/show/376350/docker.svg" alt="docker"></code>
-<code><img height="35" src="https://airflow.apache.org/images/airflow-logo.png" alt="airflow"></code>
+<!-- Cloud & Data -->
+<code><img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure"></code>
+<code><img height="35" src="https://www.pngwing.com/en/free-png-qmrro" alt="databricks"></code>
+<code><img height="35" src="https://vectorseek.com/vector_logo/azure-synapse-analytics-logo-vector/" alt="synapse"></code>
+<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark"></code>
+
+<!-- Orchestration & Containers -->
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="35" src="https://techicons.dev/icons/apacheairflow" alt="airflow"></code>
 
 <!-- Databases -->
 <code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake"></code>
 <code><img height="35" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery"></code>
+<code><img height="35" src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="mssql"></code>
 
 <!-- Analytics & AI -->
 <code><img height="35" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi"></code>
 <code><img height="35" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="openai"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="azure"></code>
-</code> 
 
 ### Projects and Dev Stuffs: 
 <details>	
