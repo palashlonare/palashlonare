@@ -46,12 +46,3 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
   <img height="170em" src="https://grs-akash.vercel.app/api?username=PalashLonare&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical&rank_icon=percentile" />
   <img height="170em" src="https://grs-akash.vercel.app/api/top-langs/?username=PalashLonare&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical" />
 </details> 
-
-<details>
-<br />
-<summary><b>❝ While you are here, here’s an Office quote for you</b></summary>
-
- ![](https://officeapi.akashrajpurohit.com/quote/random?responseType=svg)
-
- > The quote is powered by ["The Office API"](https://github.com/AkashRajpurohit/the-office-api) project
-</details>
