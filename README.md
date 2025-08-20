@@ -13,7 +13,7 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm currently building [Eternal Vault](https://eternalvault.app?ref=github-readme) - The secure bridge between your life and your loved ones.
+- 🛠 &nbsp; I'm currently building an Azure OpenAI based Retrieval-Augmented Generation (RAG) application using GPT-4 Turbo for analyzing clinical trial data
 - 🚀 &nbsp; I’m currently learning about RAG in GenAI, Linux, AI ML , Java and playing around with data pipelines.
 - 👾 &nbsp; Fun fact: I use tabs over spaces.
 - 📫 &nbsp; How to reach me: palashlonare786@gmail.com 
