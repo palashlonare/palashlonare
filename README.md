@@ -1,4 +1,4 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Palash Lonare — a Data Engineer 👨‍💻
+## Hey, I'm Palash Lonare — a Data Engineer 👨‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@PalashLonare-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palash-lonare/)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
@@ -9,7 +9,6 @@
 
 I’m a Data Engineer passionate about building robust data pipelines, optimizing big data workflows, and leveraging cloud platforms to turn raw information into actionable insights. With a background in engineering and hands-on experience in modern data tools, I bridge the gap between complex datasets and business value.
   
-<img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
 ### Talking about Personal Stuffs:
 
@@ -26,17 +25,32 @@ I’m a Data Engineer passionate about building robust data pipelines, optimizin
 
 ### Languages and Tools:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png" alt="Go"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png" alt="nextjs"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="redis"></code> 
+<!-- Languages -->
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sql"></code>
+
+<!-- Data & Orchestration -->
+<code><img height="35" src="https://avatars.githubusercontent.com/u/49998067?s=200&v=4" alt="databricks"></code>
+<code><img height="35" src="https://seeklogo.com/images/A/azure-data-factory-logo-5BC68C854E-seeklogo.com.png" alt="azure data factory"></code>
+<code><img height="35" src="https://swimburger.net/media/ppnn3pcl/azure-synapse-analytics.png" alt="synapse"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="pyspark"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/49998067?s=200&v=4" alt="mlflow"></code>
+<code><img height="35" src="https://www.svgrepo.com/show/376350/docker.svg" alt="docker"></code>
+<code><img height="35" src="https://airflow.apache.org/images/airflow-logo.png" alt="airflow"></code>
+
+<!-- Databases -->
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake"></code>
+<code><img height="35" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="bigquery"></code>
+
+<!-- Analytics & AI -->
+<code><img height="35" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi"></code>
+<code><img height="35" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="openai"></code>
+<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="azure"></code>
 </code> 
 
 ### Projects and Dev Stuffs: 
