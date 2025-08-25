@@ -1,4 +1,4 @@
-## Hey, I'm Palash Lonare — a Data Engineer 👨‍💻 
+## Hey, I'm Palash Lonare — a Data Engineer | AI ML Enthusiast 👨‍💻 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@PalashLonare-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/palash-lonare/)
 ![Visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fvc.akashrajpurohit.com%2Fc%2Fakash~gh~akashrajpurohit&query=count&style=flat&logo=github&label=Visitors&color=066da5)
